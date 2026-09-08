@@ -9,3 +9,19 @@ tmp/
 *.vopsbackup
 *.vopsbackup.manifest.json
 docs/demo/frames/
+# Script-generated demo media (rebuild with script/build-*.mjs):
+docs/demo/multilingual-frames/
+docs/demo/multilingual-segments/
+docs/demo/multilingual-audio/
+docs/demo/turkish-frames/
+docs/demo/turkish-segments/
+docs/demo/turkish-audio/
+docs/demo/turkish-build/
+docs/demo/turkish-voice-auditions/
+docs/demo/voiceops-10-language-showcase*
+docs/demo/voiceops-turkish-demo*
+docs/demo/voiceops-linkedin-demo-voiced.mp4
+docs/demo/voiceops-demo-voiceover.mp3
+docs/assets/showcase/
+Türkçe Demo/
+docs/demo/voiceops-10-language-contact-sheet.jpg
