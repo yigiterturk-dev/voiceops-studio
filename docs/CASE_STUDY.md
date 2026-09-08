@@ -51,6 +51,12 @@ The 1.02 s first-audio number visible in the screenshot is one observed local ru
 
 <img src="assets/voiceops-product-mobile.png" alt="Mobile white-label VoiceOps Studio presentation console" width="390" />
 
+### English browser conversation workflow
+
+![English conversation turn in progress with live transcription and business state](assets/voiceops-english-conversation-step1.png)
+
+![Completed English conversation record with structured appointment state](assets/voiceops-english-conversation-complete.png)
+
 ## Known limits
 
 - A public Railway deployment exists, but real-user traffic, uptime history, and an SLA have not been verified.
